@@ -1,0 +1,15 @@
+{
+    "name": "lab/composer",
+    "description": "lab composer",
+    "autoload": {
+        "psr-4": {
+            "Composer\\Lab\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adams103487",
+            "email": "s103487@pollub.edu.pl"
+        }
+    ]
+}
